@@ -1,6 +1,7 @@
 package com.java.inheritance.examples;
 //calculator
 //test 
+//added new
 public class Calculator {
 
 	int a,b;
