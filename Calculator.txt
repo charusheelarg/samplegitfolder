@@ -1,5 +1,5 @@
 package com.java.inheritance.examples;
-
+//calculator
 public class Calculator {
 
 	int a,b;
