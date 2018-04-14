@@ -1,0 +1,19 @@
+package com.java.inheritance.examples;
+//calculator
+//test 
+//added new
+public class Calculator {
+
+	int a,b;
+	static float PI=3.14f;
+	void add(){
+
+		System.out.println("add");
+		//System.out.println(a);
+	}
+	void sub(){
+		System.out.println("sub");
+		//System.out.println(b);
+	}
+	
+}
